@@ -1,0 +1,19 @@
+/* For the body */
+body {
+	color: #161616;
+}
+
+/* For all anchor elements */
+a {
+	color: #161616;
+}
+
+/* For elements with the class visually-hidden */
+.visually-hidden {
+	display: none;
+}
+
+/* For elements with the class card-category */
+.card-category {
+	color: #D73953;
+}
