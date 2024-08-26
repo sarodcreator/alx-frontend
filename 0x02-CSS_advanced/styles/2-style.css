@@ -1,19 +1,23 @@
-/* For the body */
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-	color: #161616;
+  color: #161616;
 }
 
-/* For all anchor elements */
 a {
-	color: #161616;
+  color: #161616;
 }
 
-/* For elements with the class visually-hidden */
 .visually-hidden {
-	display: none;
+  display: none;
 }
 
-/* For elements with the class card-category */
 .card-category {
-	color: #D73953;
+  color: #d73953;
+}
+
+.section-tagline {
+  color: #d73953;
 }
